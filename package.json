@@ -1,0 +1,14 @@
+{
+  "name": "shopping_cart",
+  "version": "1.0.0",
+  "description": "simple in-memory, single user command line store / shopping cart. ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dino Oreskovic",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}
